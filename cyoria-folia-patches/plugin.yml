@@ -1,0 +1,9 @@
+name: Floodgate-Skript
+version: 2.3-cyoria-folia
+main: com.github.camotoy.floodgate_skript.FloodgateSkript
+api-version: 1.13
+authors: [Camotoy]
+depend: [floodgate, Skript]
+softdepend: [Geyser-Spigot]
+
+folia-supported: true
